@@ -1,4 +1,4 @@
-#Generators
+### Generator pipeline to efficiently process large CSV files
 ## Note
 ### Generator
     - Introduced with PEP 255, generator functions are a special kind of function that return a lazy iterator. 
@@ -12,5 +12,5 @@
     - Use .send() to send data to a generator
     - Use .throw() to raise generator exceptions
     - Use .close() to stop a generator’s iteration
-### Generator pipeline to efficiently process large CSV files
+
 Link: https://realpython.com/introduction-to-python-generators/#using-generators
